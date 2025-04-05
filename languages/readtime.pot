@@ -1,0 +1,30 @@
+# Copyright (C) 2025 Adalberto H. Vega
+# This file is distributed under the same license as the ReadTime Elementor Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: ReadTime Elementor Widget 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/readtime\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-05T06:36:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: readtime\n"
+
+#. Plugin Name of the plugin
+#: readtime-elementor-widget.php
+msgid "ReadTime Elementor Widget"
+msgstr ""
+
+#. Description of the plugin
+#: readtime-elementor-widget.php
+msgid "Adds a customizable Elementor widget for read time, read aloud, and share article functionality."
+msgstr ""
+
+#. Author of the plugin
+#: readtime-elementor-widget.php
+msgid "Adalberto H. Vega"
+msgstr ""
