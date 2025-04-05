@@ -1,0 +1,14 @@
+.readtime-widget {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.readtime-icon {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.readtime-icon i {
+    margin-right: 5px;
+}
